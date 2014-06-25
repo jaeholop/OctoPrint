@@ -21,3 +21,13 @@ dist
 pypy
 OctoPrint.egg-info
 *.orig
+src/LICENSE
+src/MANIFEST.in
+src/PKGBUILD
+src/README.md
+src/CONTRIBUTING.md
+src/config.yaml
+src/octoprint.service
+src/run
+pkg
+*.pkg.tar.xz
